@@ -1,1 +1,18 @@
-
+{
+  "id": 146066774,
+  "name": "Tung Tung Sahurcles",
+  "author": "Arraegen",
+  "creators": ["Arraegen"],
+  "verifier": "Nova",
+  "verification": "https://youtu.be/oQJTjVd5i_M?si=CK6n5bsPH5XDgz5I",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "johnuk",
+      "link": "https://www.youtube.com/watch?v=-k-EvnBaTBQ",
+      "percent": 100,
+      "hz": 260
+    }
+  ]
+}
