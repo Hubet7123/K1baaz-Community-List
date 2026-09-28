@@ -1,1 +1,18 @@
-
+{
+  "id": 117862884,
+  "name": "Diamond Disco",
+  "author": "Zeronium",
+  "creators": ["Zeronium"],
+  "verifier": "Zeronium",
+  "verification": "https://youtu.be/7zi8X8uInHE?si=R9jo-3U_2y9loj03",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "DjuroDark",
+      "link": "https://www.youtube.com/watch?v=0WsYPETwTh0",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
+}
