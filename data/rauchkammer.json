@@ -1,0 +1,18 @@
+{
+  "id": 146399247,
+  "name": "rauchkammer",
+  "author": "Devilmine",
+  "creators": ["Devilmine"],
+  "verifier": "Devilmine",
+  "verification": "https://youtu.be/2SVOAQBiOtg?si=3bKE9-gF0V_MZRbR",
+  "percentToQualify": 100,
+  "password": "No ID",
+  "records": [
+    {
+      "user": "NOCTIS",
+      "link": "https://www.youtube.com/watch?v=o8cu2ZUcGmc",
+      "percent": 100,
+      "hz": 54
+    }
+  ]
+}
